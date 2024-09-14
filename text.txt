@@ -1,0 +1,8 @@
+A proficient reader interprets several words with each fix across a line.
+Ok you can measure your typing speed using this app
+The human eye moves in discrete motions ending in periods of detail-absorbing stability called fixes.
+Compose text into lines averaging ten words or less, for casual reading, and even narrower for speed reading.
+Consider formatting web pages within tables of specified pixel width so that your reader will not have to adjust their browser 
+I hate short lines, personally, simply because I try to set my font sizes much higher than most other people do
+When dealing specifically with web design, use a table with its width set to 430 pixels to contain text.
+It's good advice for normal writing, but html is supposed to let the browser control how text appears
